@@ -1,0 +1,5 @@
+slack-bolt
+langchain-openai
+python-dotenv
+pypdf
+pandas
